@@ -8,7 +8,7 @@ function handleLetGo() {
     return;
   }
   window.location.href =
-    "../caro.html?type=" +
+    "../caro/caro.html?type=" +
     typePlay +
     "&rows=" +
     rows +
